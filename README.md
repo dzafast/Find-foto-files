@@ -1,2 +1,3 @@
 # Find graphic files
-Program w trakcie realizacji, na zamówienie firmy fotograficznej w celu wyszukiwania pakietu zdjęć z serwera, zapizywania raportu oraz przesyłaniu ich na drukarkę. Docelowu interakcja z użytkownikiem poprzez GUI
+Program na zamówienie firmy fotograficznej FOKUS. Zadanie: wyszukanie, zdjęć z magazynu zdjęć do katalogu, zapisanie raportu.
+Program ma ułatwić maksymalnie jak się da wyszukanie grupy zdjęć posegregowanych wg. symbolu fotografa,
